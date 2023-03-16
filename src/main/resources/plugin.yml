@@ -1,0 +1,4 @@
+name: HubCore
+main: dev.fxmxgragfx.hub.HubCore
+version: ${project.version}
+author: FxMxGRAGFX
